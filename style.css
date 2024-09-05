@@ -1,47 +1,47 @@
-.container-fluid a{
-    color: rgb(15, 8, 8);
-    }
-    .hen span{
+.container-fluid a {
+  color: rgb(20, 19, 27);
+  margin-left: 20px;
+}
+/* .hen span{
         color: rgb(5, 17, 5);
     }
      
     .hen a{
         color: rgb(25, 211, 18);
-    }
+    } */
 
-  .h3{
-    color: rgb(85, 17, 45);
-  } 
+.h3 {
+  color: rgb(85, 17, 45);
+}
 
 .button {
-    color: rgb(61, 42, 165);
+  color: rgb(142, 128, 221);
 }
-.ask .btn{
-    margin-top: 15px;
+.ask .btn {
+  margin-top: 15px;
 }
 
 .ask {
-    color: aliceblue;
+  color: aliceblue;
 }
-.ask p{
-    color: rgb(5, 9, 14);
+.ask p {
+  color: rgb(5, 9, 14);
 }
-.ask i{
-    color: rgb(4, 14, 10);
-    font-size: 25px;
-    margin-inline: 5px;
-    margin-bottom: 20px;
-
-}
-
-.container-fluid .nature a{
-    color: rgb(41, 74, 223);
+.ask i {
+  color: rgb(4, 14, 10);
+  font-size: 25px;
+  margin-inline: 5px;
+  margin-bottom: 20px;
 }
 
-.container-fluid h2{
-    color: blue;
+.container-fluid .nature a {
+  color: rgb(87, 90, 107);
 }
 
-.col-sm-6 a{
-    text-decoration: none;
+.container-fluid h2 {
+  color: rgb(50, 50, 67);
+}
+
+.col-sm-6 a {
+  text-decoration: none;
 }
